@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">QUIZ APP</string>
+<string name="music_text">MUSIC</string>
+<string name="automobile_text">AUTOMOBILE</string>
+<string name="scor_text">SCOR</string>
+<string name="rasp_d_text">Rasp D</string>
+<string name="rasp_c_text">Rasp C</string>
+<string name="rasp_b_text">Rasp B</string>
+<string name="rasp_a_text">Rasp A</string>
+<string name="intrebare_text">INTREBARE</string>
+</resources>
